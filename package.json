@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "@google/maps": "^0.4.1",
+    "@google/maps": "^0.5.5",
     "ajv": "^5.1.5",
     "app-root-path": "^2.0.1",
     "body-parser": "^1.17.1",
