@@ -22,7 +22,7 @@
     "csv": "^1.1.1",
     "csv-parse": "^1.2.0",
     "csvtojson": "^1.1.6",
-    "ejs": "^2.5.6",
+    "ejs": "^3.1.6",
     "express": "^4.15.3",
     "jsonfile": "^3.0.0",
     "lodash.max": "^4.0.1",
